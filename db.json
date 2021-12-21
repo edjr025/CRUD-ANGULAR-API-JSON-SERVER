@@ -1,0 +1,69 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Azul",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Borracha",
+      "price": 1.18
+    },
+    {
+      "id": 3,
+      "name": "Lapis",
+      "price": 3.25
+    },
+    {
+      "id": 4,
+      "name": "Caderno 20 folhas",
+      "price": 12.5
+    },
+    {
+      "id": 5,
+      "name": "Estojo",
+      "price": "4.54"
+    },
+    {
+      "name": "Hidrocor",
+      "price": "2.75",
+      "id": 6
+    },
+    {
+      "name": "Tinta Guache",
+      "price": "2.67",
+      "id": 7
+    },
+    {
+      "name": "Massa de modelar",
+      "price": "5.98",
+      "id": 8
+    },
+    {
+      "name": "Lapizeira",
+      "price": "1.65",
+      "id": 10
+    },
+    {
+      "name": "Tesoura Bin Pan",
+      "price": "4.57",
+      "id": 11
+    },
+    {
+      "name": "Papel A4 Pacote",
+      "price": "11.99",
+      "id": 12
+    },
+    {
+      "name": "Papel Madeira",
+      "price": "1.25",
+      "id": 13
+    },
+    {
+      "name": "Grafite",
+      "price": "1.98",
+      "id": 14
+    }
+  ]
+}
